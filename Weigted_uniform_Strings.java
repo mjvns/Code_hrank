@@ -1,3 +1,8 @@
+/*
+ problem statement can be viewed at:
+ https://www.hackerrank.com/contests/world-codesprint-9/challenges/weighted-uniform-string/submissions/code/1300313243
+*/
+
 import java.util.Scanner;
 class Solution
 {
