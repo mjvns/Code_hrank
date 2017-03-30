@@ -1,3 +1,8 @@
+/*
+The problem statement can be viewed at:
+https://www.hackerrank.com/contests/world-codesprint-9/challenges/queens-attack-2/copy-from/1300319458
+*/
+
 import java.util.Scanner;
 class Solution
 {
